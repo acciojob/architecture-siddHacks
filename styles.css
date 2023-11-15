@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+*{
+  width: 1100px;
+  background-color: cyan;
+}
+.imageContainer > .imgTag{
+	width: 700px;
+}
+table,tr,th,td{
+	border:2px solid black;
+}
+
+.firstc{
+	width: 200px;
+}
+.middlec{
+	width: 600px;	
+}
+.lastc {
+	width: 200px;	
+}
